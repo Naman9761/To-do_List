@@ -1,0 +1,12 @@
+.main-row{
+    height: 100vh;
+    color: rgb(234, 21, 21);
+}
+.main-col{
+    max-width: 500px;
+    min-height: 300px;
+    color: rgb(11, 228, 43);
+}
+.todo-done{
+    text-decoration: line-through;
+}
